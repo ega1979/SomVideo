@@ -33,4 +33,4 @@ Self Oganizing map video generator by python
 
 
 ## (3)Workshop document
-- SomWorkshopDocument(Japanese).pdf
+- SomWorkshopDocument.Japanese.pdf
